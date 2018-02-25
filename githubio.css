@@ -1,5 +1,28 @@
+body
+{
+    background-color: #ccc;
+}
+
 h1
 {
-    text-align : center;
-    color      : #333
+    text-align       : center;
+    color            : #333;
+    background-color : #eee;
+}
+
+h2
+{
+    text-align       : center;
+    color            : #333;
+    background-color : #ddd;
+}
+
+div.products
+{
+    background-color : white;
+}
+
+img.products_image
+{
+    float: left;
 }
